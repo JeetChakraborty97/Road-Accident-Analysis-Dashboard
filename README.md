@@ -1,6 +1,8 @@
-# This GitHub repository contains the following files:  
+# Road Accident Analysis Dashboard (Excel)
 
 <img width="1863" height="808" alt="Road Accident Analysis Dashboard Screenshot" src="https://github.com/user-attachments/assets/9da86c89-63ec-49a4-9661-4940863e332c" />
+
+# This GitHub repository contains the following files:  
 
 Road Accident Analysis Dashboard Project.xlsx - The main Excel dashboard file
 
